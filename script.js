@@ -98,5 +98,5 @@ document.getElementById('buy-now').addEventListener('click', function () {
     localStorage.setItem('cart', JSON.stringify(cart));
 
     // Redirect to the checkout page
-    window.location.href = '/checkout.html';  // Update the URL as needed
+    // window.location.href = '/checkout.html';  // Update the URL as needed
 });
