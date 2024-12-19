@@ -13,42 +13,42 @@ const products = [
         name: "Car Shampoo",
         price: "Rs 379",
         description: "Perfect for a deep clean, leaving your car spotless. Easy to apply, provides a professional finish.",
-        image: "Images/product1WWP.jpg"
+        image: "product1WWP.jpg"
     },
     {
         id: 2,
         name: "Tire Cleaner",
         price: "Rs 499",
         description: "Restores your tires to a shiny, like-new finish, UV protection.",
-        image: "Images/product2TG.jpg"
+        image: "product2TG.jpg"
     },
     {
         id: 3,
         name: "Interior Cleaner",
         price: "Rs 489",
         description: "Keep your car's interior looking pristine and fresh.",
-        image: "Images/product3CIC.jpg"
+        image: "product3CIC.jpg"
     },
     {
         id: 4,
         name: "Wind sheild washer",
         price: "Rs 219",
         description: "Elevate Your Ride: 3M Wash-Wax-Protect – Shine Brighter, Last Longer.",
-        image: "Images/product4WSW.jpg"
+        image: "product4WSW.jpg"
     },
     {
         id: 5,
         name: "Headlight cleaner & Restorer",
         price: "Rs 399",
         description: "Brighten Your Vision, Safeguard Your Drive.",
-        image: "Images/product5HCR.jpg"
+        image: "product5HCR.jpg"
     },
     {
         id: 6,
         name: "Quick Car Body Polish",
         price: "Rs 919",
         description: "Trusted Shine with Carnauba Wax Protection – Your Car's Ultimate Glow.",
-        image: "Images/product6CBP.jpg"
+        image: "product6CBP.jpg"
     },
     // Add more products here
 ];
