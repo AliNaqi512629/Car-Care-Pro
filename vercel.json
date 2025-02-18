@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    { "source": "/product-detail", "destination": "/product-detail.html" }
+  ],
+  "redirects": [
+    { "source": "http://:path*", "destination": "https://carcarepro.vercel.app:path*", "statusCode": 301 },
+    { "source": "www.carcarepro.vercel.app/:path*", "destination": "https://carcarepro.vercel.app/:path*", "statusCode": 301 }
+  ],
+  "routes": [
+    { "src": "/(.*)", "dest": "/index.html" }
+  ]
+}
